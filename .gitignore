@@ -8,6 +8,7 @@ env/
 venv/
 .venv/
 ENV/
+vendor/
 
 # Testing & Coverage
 .pytest_cache/
